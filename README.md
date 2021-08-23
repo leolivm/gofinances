@@ -10,8 +10,7 @@
 
 ## :bookmark: About the project
 
-**React Native - Expo application for the GoFinances project developed at Ignite @ Rocketseat.**
-Application made to control your finances in a practical way, adding your receipts and expenses by category and even having an informative graphic of expenses by category.
+React Native - Expo application for the GoFinances project developed at Ignite @ Rocketseat.
 
 ## 🚀 Technologies
 
