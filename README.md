@@ -6,7 +6,6 @@
   <img alt="letmeask" src=".github/assets/home.png" width="200" heigth="416" /> 
   <img alt="letmeask" src=".github/assets/home-2.png" width="200" heigth="416" /> 
   <img alt="letmeask" src=".github/assets/home-3.png" width="200" heigth="416" /> 
-  Typescript | Firebase
 </p>
 
 ## :bookmark: About the project
